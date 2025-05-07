@@ -13,8 +13,7 @@ The architecture of this project is based on the following components:
 - **Spring Boot**: A framework for building Java applications quickly and easily.
 - **Spring WebFlux**: A reactive programming framework for building non-blocking applications.
 - **WebClient**: A non-blocking, reactive client for making HTTP requests.
-- **Reactor**: A library for building reactive applications in Java.
-- **Load Testing Tools**: JMeter, k6, and Gatling for performance testing.
+
 
 ## Setup Instructions
 
