@@ -24,7 +24,7 @@ The architecture of this project is based on the following components:
 
 ### Clone the Repository
 
-git clone https://github.com/arjun2124/HTTP-Invocation-API.git
+git clone https://github.com/arjun2124/-HTTP-Invocation-API
 cd  HTTP-Invocation
 
 
